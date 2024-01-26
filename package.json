@@ -2,7 +2,7 @@
   "name": "foes-pto",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://beefwareapps.github.io/foes-pto/",
+  "homepage": "https://beefwareapps.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
